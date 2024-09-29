@@ -32,3 +32,10 @@ This project implements Self-Organizing Maps (SOMs) for customer segmentation us
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
 
+2.Navigate to the project directory:
+  ```bash
+  cd yourrepository
+3.Install required libraries (if you haven't already):
+  ```bash
+  pip install pandas numpy matplotlib minisom scikit-learn
+
